@@ -1,2 +1,2 @@
-# astrum-wallet
-Leveraging the XRPLedger for the travel industry
+# Astrum-Wallet
+Leveraging the XRPLedger for the regional travel industry
